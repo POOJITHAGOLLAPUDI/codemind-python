@@ -5,4 +5,3 @@ for i in range(int(input())):
         if i%10==2 or i%10==3 or i%10==9:
             s+=1
     print(s)
-            
